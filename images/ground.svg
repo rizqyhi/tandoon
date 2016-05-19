@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="800px" height="300px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 780 279.014"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#7A896C}
+    .fil4 {fill:#957F66}
+    .fil2 {fill:#98AF85}
+    .fil3 {fill:#99AE6A}
+    .fil0 {fill:#B8DB7C}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="780,74.7276 780,279.014 -0,279.014 -0,74.7276 "/>
+  <g id="_111523976">
+   <polygon id="_158659384" class="fil1" points="72.774,29.5416 90.59,55.2568 108.406,80.9708 72.774,80.9708 37.1428,80.9708 54.9584,55.2568 "/>
+   <polygon id="_156501544" class="fil2" points="72.774,13.7436 87.6204,39.4584 102.467,65.1732 72.774,65.1732 43.0816,65.1732 57.9276,39.4584 "/>
+   <polygon id="_158658520" class="fil3" points="72.774,0.442 87.6204,26.1568 102.467,51.8712 72.774,51.8712 43.0816,51.8712 57.9276,26.1568 "/>
+   <rect id="_158654464" class="fil4" x="69.8049" y="80.9695" width="5.93855" height="35.6313"/>
+  </g>
+  <g id="_155402432">
+   <polygon id="_158653312" class="fil1" points="159.549,21.516 172.722,40.5296 185.894,59.5424 159.549,59.5424 133.203,59.5424 146.376,40.5296 "/>
+   <polygon id="_158652376" class="fil2" points="159.549,9.8352 170.526,28.8484 181.503,47.862 159.549,47.862 137.594,47.862 148.572,28.8484 "/>
+   <polygon id="_158658928" class="fil3" points="159.549,0 170.526,19.0136 181.503,38.0264 159.549,38.0264 137.594,38.0264 148.572,19.0136 "/>
+   <rect id="_156278456" class="fil4" x="157.353" y="59.5416" width="4.39093" height="26.3456"/>
+  </g>
+  <g id="_155400680">
+   <polygon id="_155401520" class="fil1" points="723.53,78.6792 741.724,104.94 759.917,131.199 723.53,131.199 687.143,131.199 705.336,104.94 "/>
+   <polygon id="_155400488" class="fil2" points="723.53,62.5464 738.691,88.8064 753.852,115.066 723.53,115.066 693.208,115.066 708.368,88.8064 "/>
+   <polygon id="_158652760" class="fil3" points="723.53,48.9624 738.691,75.2224 753.852,101.482 723.53,101.482 693.208,101.482 708.368,75.2224 "/>
+   <rect id="_155400776" class="fil4" x="720.498" y="131.198" width="6.06449" height="36.387"/>
+  </g>
+ </g>
+</svg>

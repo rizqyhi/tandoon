@@ -1,0 +1,7 @@
+{
+  "name": "Tandoon",
+  "short_name": "Tandoon",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "1035552143033"
+}
